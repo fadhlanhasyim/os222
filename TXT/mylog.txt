@@ -10,3 +10,18 @@ ZCZC W00 30 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W00 25 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
 ZCZC W00 15 L41 TXT/mylog.txt related.
 ZCZC W00 30 L64 Helping a friend (OS related problem)
+ZCZC W00 60 L10 Assignment #00
+ZCZC W00 200 L02 ZOOM meetings related
+ZCZC W01 170 L02 ZOOM meetings related
+ZCZC W01 60 L01 SCELE/Discord related
+ZCZC W01 20 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W01 15 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 20 L05 Quiz related including studying
+ZCZC W01 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
+ZCZC W01 120 L11 Assignment #01
+ZCZC W01 10 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W01 10 L32 YouTube: watching OS related topics, etc.
+ZCZC W01 15 L41 TXT/mylog.txt related.
+ZCZC W01 45 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W01 20 L64 Helping a friend (OS related problem)
+ZCZC W01 20 L61 Install/Reinstall/Restore/Backup Virtual Box
