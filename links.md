@@ -16,3 +16,8 @@ How can we differentiate between privacy and security? Read on to learn more!
 The Linux File Hierarchy Structure or the Filesystem Hierarchy Standard (FHS) defines the directory structure and directory contents in Unix-like operating systems. Let's dive deeper into Linux FHS!
 ### 2. [FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)
 Don't worry if you have no idea about FUSE. This article tells you everything you need to know about FUSE straightforwardly!
+## WEEK 04
+### 1. [Linux Basics: Static Libraries vs. Dynamic Libraries](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)
+You came to the right place if you're wondering how static and dynamic libraries work in C programs.
+### 2. [C Introduction](https://www.w3schools.com/c/c_intro.php)
+C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972. This tutorial will teach you the very basics of C.
