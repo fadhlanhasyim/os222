@@ -21,3 +21,8 @@ Don't worry if you have no idea about FUSE. This article tells you everything yo
 You came to the right place if you're wondering how static and dynamic libraries work in C programs.
 ### 2. [C Introduction](https://www.w3schools.com/c/c_intro.php)
 C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972. This tutorial will teach you the very basics of C.
+## WEEK 05
+### 1. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+Besides explaining about virtual memory on the operating system, this website also explains about demand paging, swapping, and thrashing.
+### 2. [What is Virtual Memory?](https://www.techtarget.com/searchstorage/definition/virtual-memory#:~:text=Virtual%20memory%20is%20a%20common,(RAM)%20to%20disk%20storage.)
+This website is suitable for those of you who want to know more about virtual memory.
