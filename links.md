@@ -26,3 +26,8 @@ C is a general-purpose programming language created by Dennis Ritchie at the Bel
 Besides explaining about virtual memory on the operating system, this website also explains about demand paging, swapping, and thrashing.
 ### 2. [What is Virtual Memory?](https://www.techtarget.com/searchstorage/definition/virtual-memory#:~:text=Virtual%20memory%20is%20a%20common,(RAM)%20to%20disk%20storage.)
 This website is suitable for those of you who want to know more about virtual memory.
+## WEEK 06
+### 1. [Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)
+This post talks about threads, several mechanisms related to them like mutexes and conditional variable.
+### 2. [Inter Process Communication (IPC)](https://www.geeksforgeeks.org/inter-process-communication-ipc/)
+Inter-process communication (IPC) is a mechanism that allows processes to communicate with each other and synchronize their actions.
