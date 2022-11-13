@@ -31,3 +31,8 @@ This website is suitable for those of you who want to know more about virtual me
 This post talks about threads, several mechanisms related to them like mutexes and conditional variable.
 ### 2. [Inter Process Communication (IPC)](https://www.geeksforgeeks.org/inter-process-communication-ipc/)
 Inter-process communication (IPC) is a mechanism that allows processes to communicate with each other and synchronize their actions.
+## WEEK 07
+### 1. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+Get to know more about deadlock by reading this awesome website.
+### 2. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+This website explains about process synchronization.
