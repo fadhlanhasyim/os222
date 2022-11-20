@@ -36,3 +36,8 @@ Inter-process communication (IPC) is a mechanism that allows processes to commun
 Get to know more about deadlock by reading this awesome website.
 ### 2. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
 This website explains about process synchronization.
+## WEEK 08
+### 1. [Multiple Processor Scheduling](https://binaryterms.com/multiple-processor-scheduling.html)
+Multiple processor scheduling or multiprocessor scheduling focuses on designing the scheduling function for the system which is consist of ‘more than one processor.
+### 2. [Scheduling in Operating System](https://binaryterms.com/scheduling-in-operating-system.html#:~:text=Scheduling%20in%20operating%20system%20is,some%20or%20the%20other%20process.)
+Dive deeper into scheduling in OS. It's interesting!
